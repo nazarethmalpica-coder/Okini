@@ -1,0 +1,72 @@
+body {
+    background-color: #f2f0ea;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #1a1a1a;
+}
+
+h1 {
+    color: #5b9b8e;
+    font-size: 2.5rem;
+}
+
+header {
+    padding: 1.5 rem 2rem;
+    border-bottom: 1px solid #1a1a1a;
+}
+
+nav a {
+    color: #5b9b8e;
+}
+
+main {
+    padding: 3rem 2rem;
+    max-width: 800px;
+    margin: 0 auto;
+
+}
+
+.metodo-titulo {
+    font-size: 1.1rem;
+    letter-spacing: 0.10rem;
+    text-transform: uppercase;
+    margin-bottom: 0.25rem;
+    color: #5b9b8e;
+
+}
+
+.precio {
+    font-size: bold;
+    color: #5b9b8e;
+}
+
+.pedro {
+    padding: 1.5 rem;
+    color: #5b9b8e;
+    max-width: 400px;
+    margin: 0 auto;
+
+}
+
+#reserva {
+    align-items: center;
+    gap: 0.75rem;
+}
+
+#contadordetazas {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #5b9b8e;
+}
+
+#Reservartaza {
+    display: block;
+    margin-top: 1rem;
+    padding: 0.5rem 1.25 rem;
+    background-color: #5b9b8e;
+    color: beige;
+    border: none;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 1rem;
+    cursor: pointer;
+
+}
